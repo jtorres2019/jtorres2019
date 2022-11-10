@@ -9,9 +9,9 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/jtorres2019/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jtorres2019/azure-network-protocols)
- - <b>QA Test Case Projects</b>
- - [Sample Test Case For Walmart POS Machine](https://github.com/jtorres2019/Sample-Test-Case-For-Walmart-POS-Machine)
- - [osTicket: Post-Installation Configuration](https://github.com/jtorres2019/post-install-config)
+- <b>QA Test Case Projects</b>
+  - [Sample Test Case For Walmart POS Machine](https://github.com/jtorres2019/Sample-Test-Case-For-Walmart-POS-Machine)
+ 
 <h2>🤳Connect with me:</h2>
 
 
