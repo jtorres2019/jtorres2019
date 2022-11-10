@@ -11,7 +11,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jtorres2019/azure-network-protocols)
 - <b>QA Test Case Projects</b>
   - [Sample Test Case For Walmart POS Machine](https://github.com/jtorres2019/Sample-Test-Case-For-Walmart-POS-Machine)
-  - [Testing for New Resume AI Software](https://github.com/jtorres2019/Sample-Test-Case-For-Walmart-POS-Machine)
+  - [Testing for New Resume AI Software](https://github.com/jtorres2019/Testing-for-New-Resume-AI-Software)
 <h2>🤳Connect with me:</h2>
 
 
