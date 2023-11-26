@@ -1,6 +1,6 @@
 <h1>Hi, I'm Joseph Torres, A <a href="https://www.linkedin.com/in/joseph-torres-2566bb2a1/">Data Analyst</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Information Technology, SQL, Python Projects:</h2>
 
 - <b>SQL Projects</b>
   - [Medicaid and Medicare Document Testing](https://github.com/jtorres2019/Medicaid-and-Medicare-Document-Testing/blob/main/Medicaid-and-Medicare-Document-Testing)
