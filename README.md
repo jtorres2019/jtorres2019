@@ -2,6 +2,10 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>Data Analyst Projects</b>
+  - [Medicaid and Medicare Document Testing](https://github.com/jtorres2019/Medicaid-and-Medicare-Document-Testing)
+  - [osTicket: Post-Installation Configuration](https://github.com/jtorres2019/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/jtorres2019/ticket-lifecycle)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/jtorres2019/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/jtorres2019/post-install-config)
