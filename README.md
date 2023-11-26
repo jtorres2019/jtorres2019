@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Data Analyst Projects</b>
+- <b>SQL Projects</b>
   - [Medicaid and Medicare Document Testing](https://github.com/jtorres2019/Medicaid-and-Medicare-Document-Testing/blob/main/Medicaid-and-Medicare-Document-Testing)
   - [Marketing-Data-Analysis-and-Strategy](https://github.com/jtorres2019/Marketing-Data-Analysis-and-Strategy/blob/main/Marketing%20Data%20Analysis%20and%20Strategy)
   - [Microsoft-Data-Analysis-and-Insights](https://github.com/jtorres2019/Microsoft-Data-Analysis-and-Insights/blob/main/Microsoft%20Data%20Analysis%20and%20Insights)
