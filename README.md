@@ -5,7 +5,7 @@
 - <b>Data Analyst Projects</b>
   - [Medicaid and Medicare Document Testing](https://github.com/jtorres2019/Medicaid-and-Medicare-Document-Testing)
   - [Marketing-Data-Analysis-and-Strategy](https://github.com/jtorres2019/Marketing-Data-Analysis-and-Strategy/blob/main/README.md)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/jtorres2019/ticket-lifecycle)
+  - [Microsoft-Data-Analysis-and-Insights](https://github.com/jtorres2019/Microsoft-Data-Analysis-and-Insights/blob/main/README.md)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/jtorres2019/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/jtorres2019/post-install-config)
