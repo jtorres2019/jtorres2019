@@ -5,7 +5,7 @@
 - <b>Data Analyst Projects</b>
   - [Medicaid and Medicare Document Testing](https://github.com/jtorres2019/Medicaid-and-Medicare-Document-Testing/blob/main/Medicaid-and-Medicare-Document-Testing)
   - [Marketing-Data-Analysis-and-Strategy](https://github.com/jtorres2019/Marketing-Data-Analysis-and-Strategy/blob/main/Marketing%20Data%20Analysis%20and%20Strategy)
-  - [Microsoft-Data-Analysis-and-Insights](https://github.com/jtorres2019/Microsoft-Data-Analysis-and-Insights/blob/main/README.md)
+  - [Microsoft-Data-Analysis-and-Insights](https://github.com/jtorres2019/Microsoft-Data-Analysis-and-Insights/blob/main/Microsoft%20Data%20Analysis%20and%20Insights)
   - [Data-Extraction-and-Analysis-for-Business-Insights](https://github.com/jtorres2019/Data-Extraction-and-Analysis-for-Business-Insights/blob/main/README.md)
   - [Data-Analysis-and-Marketing-Strategy](https://github.com/jtorres2019/Data-Analysis-and-Marketing-Strategy/blob/main/README.md)
   - [COVID-19-Contact-Tracing-and-Patient-Data-Analysis](https://github.com/jtorres2019/COVID-19-Contact-Tracing-and-Patient-Data-Analysis)
