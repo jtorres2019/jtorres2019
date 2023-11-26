@@ -1,4 +1,4 @@
-<h1>Hi, I'm Joseph Torres, A <a href="https://www.linkedin.com/in/joseph-torres-762b34250(https://www.linkedin.com/in/joseph-torres-2566bb2a1/)/">Data Analyst</a>☺</h1>
+<h1>Hi, I'm Joseph Torres, A <a href="https://www.linkedin.com/in/joseph-torres-2566bb2a1/">Data Analyst</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
