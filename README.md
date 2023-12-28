@@ -1,4 +1,4 @@
-<h1>Hi, I'm Joseph Torres, A <a href="https://www.linkedin.com/in/joseph-torres-2566bb2a1/">Data Analyst</a>☺</h1>
+<h1>Hi, I'm Joseph Torres, A <a href="https://www.linkedin.com/in/joseph-torres-2566bb2a1/">QA Automation Engineer</a>☺</h1>
 
 <h2>👨‍💻 Information Technology, SQL, Python Projects:</h2>
 
